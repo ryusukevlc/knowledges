@@ -1,7 +1,7 @@
 # knowledges
 tech knowledge repository.
 
-## Helpful articles and Sites
+## Helpful articles and sites
 - [10 step for become a good Java developer (japanese)](https://one-it-thing.com/4340/)
 - [Hacker News](https://news.ycombinator.com/)
 - [Java information](http://www.java2s.com/)
